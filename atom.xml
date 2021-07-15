@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>三墩冰室</title>
-  <icon>https://lmdao.me/icon.png</icon>
+  <icon>https://lmdao.me/favicon.ico</icon>
   <subtitle>Yet another Hexo blog.</subtitle>
   <link href="https://lmdao.me/atom.xml" rel="self"/>
   
