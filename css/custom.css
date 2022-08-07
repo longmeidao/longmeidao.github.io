@@ -249,10 +249,13 @@ a.footer-link:focus {
   fill: #1DA1F2;
 }
 .instagram {
-  fill: #E4405F
+  fill: #E4405F;
 }
 .stackoverflow {
   fill: #ca7516;
+}
+.rss {
+  fill: #ee802f;
 }
 .nanobar {
   left: 0;
